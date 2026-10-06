@@ -1,0 +1,12 @@
+# Data (SQLite db + cloned/extracted repositories)
+data/
+# Scratch experiments
+.scratch/
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Node
+node_modules/
+frontend/dist/
